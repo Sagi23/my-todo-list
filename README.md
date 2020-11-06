@@ -29,7 +29,7 @@ https://mytodolist1.netlify.app/
 
 ### The desktop version:
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73761063/98312483-7fa84d80-1fda-11eb-8436-da77ae3cfbc7.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73761063/98346849-40e8b680-201f-11eb-9a8e-64a0fa32591d.gif)
 
 ### The mobile version:
 
