@@ -1,4 +1,4 @@
-### Description
+### Description:
 
 Project that make you a todo list, the app can create read update and delete(with confirmation).  
 The project is responsive to all device sizes.  
